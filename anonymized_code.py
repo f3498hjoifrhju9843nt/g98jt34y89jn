@@ -1,5 +1,9 @@
 # Copyright and Performance rights by ANONYMIZED_AUTHORS
 
+# Python version used: 3.9.2
+# Libraries in use:
+# pip install tqdm numpy z3-solver
+
 from itertools import permutations
 from typing import List, Tuple
 from tqdm import tqdm
